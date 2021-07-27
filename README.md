@@ -7,15 +7,14 @@
 - 🤔 I’m looking for help with React
 - 💬 Ask me about Anything
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ababu-alemu-17091519b/), [Twitter](https://twitter.com/ababualemu0), [Instagram](https://www.instagram.com/_ababu_/), [Facebook](https://www.facebook.com/ababu.alemu.3/)
-<br />
-<p align=center>
+<p>
 <em>Don't hesitate to get in touch!</em>
 </p>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Love cats 😁
 
 
-
+---
 
 
 ### Languages and Tools:
@@ -52,14 +51,4 @@
 </code>](https://www.microsoft.com/en-us/windows)
  ---
 
-_NOTE: Top languages does not indicate my skill level or anything like that, it's a github metric of which languages I use the most the most on github_
 
-<a href="https://github-readme-stats.ababuu.vercel.app/api?username=ababuu&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
-<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.ababuu.vercel.app/api?username=ababuu&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-<a href="https://github-readme-stats.ababuu.vercel.app/api/top-langs/?username=ababuu&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.ababuu.vercel.app/api/top-langs/?username=ababuu&layout=compact&theme=radical" />
-</a>
-
----
-
-[telegram]:(https://t.me/ababu3)
