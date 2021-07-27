@@ -11,11 +11,11 @@
 - ⚡ Fun fact: Love cats 😁
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
-[<img align="left" alt="Ababu | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin](https://www.linkedin.com/in/ababu-alemu-17091519b/)
-[<img align="left" alt="Ababu | Telegram" height="22px" src="./SocialLogo/Telegram.png" />][telegram](https://t.me/ababu3)
-[<img align="left" alt="Ababu | Twitter" height="22px" src="./SocialLogo/Twitter.png" />][twitter](https://twitter.com/ababualemu0)
-[<img align="left" alt="Ababu | Facebook" height="22px" src="./SocialLogo/Facebook.png" />][facebook](https://www.facebook.com/ababu.alemu.3/)
-[<img align="left" alt="Ababu | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram](https://www.instagram.com/_ababu_/)
+[<img align="left" alt="Ababu | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]:(https://www.linkedin.com/in/ababu-alemu-17091519b/)
+[<img align="left" alt="Ababu | Telegram" height="22px" src="./SocialLogo/Telegram.png" />][telegram]:(https://t.me/ababu3)
+[<img align="left" alt="Ababu | Twitter" height="22px" src="./SocialLogo/Twitter.png" />][twitter]:(https://twitter.com/ababualemu0)
+[<img align="left" alt="Ababu | Facebook" height="22px" src="./SocialLogo/Facebook.png" />][facebook]:(https://www.facebook.com/ababu.alemu.3/)
+[<img align="left" alt="Ababu | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]:(https://www.instagram.com/_ababu_/)
 
 <br />
 <br/>
