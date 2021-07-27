@@ -11,11 +11,11 @@
 - ⚡ Fun fact: Love cats 😁
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
-[<img align="left" alt="Ababu | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]:(https://www.linkedin.com/in/ababu-alemu-17091519b/)
-[<img align="left" alt="Ababu | Telegram" height="22px" src="./SocialLogo/Telegram.png" />][telegram]:(https://t.me/ababu3)
-[<img align="left" alt="Ababu | Twitter" height="22px" src="./SocialLogo/Twitter.png" />][twitter]:(https://twitter.com/ababualemu0)
-[<img align="left" alt="Ababu | Facebook" height="22px" src="./SocialLogo/Facebook.png" />][facebook]:(https://www.facebook.com/ababu.alemu.3/)
-[<img align="left" alt="Ababu | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]:(https://www.instagram.com/_ababu_/)
+[<img align="left" alt="Ababu | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin](https://www.linkedin.com/in/ababu-alemu-17091519b/)
+[<img align="left" alt="Ababu | Telegram" height="22px" src="./SocialLogo/Telegram.png" />][telegram](https://t.me/ababu3)
+[<img align="left" alt="Ababu | Twitter" height="22px" src="./SocialLogo/Twitter.png" />][twitter](https://twitter.com/ababualemu0)
+[<img align="left" alt="Ababu | Facebook" height="22px" src="./SocialLogo/Facebook.png" />][facebook](https://www.facebook.com/ababu.alemu.3/)
+[<img align="left" alt="Ababu | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram](https://www.instagram.com/_ababu_/)
 
 <br />
 <br/>
@@ -46,13 +46,13 @@
 [<code>
 <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 </code>](https://dev.mysql.com/)
+[<code>
 <img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
 </code>](https://git-scm.com/)
 [<code>
 <img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
 </code>](https://github.com/)
 [<code>
-  [<code>
 <img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
 </code>](https://www.microsoft.com/en-us/windows)
  ---
