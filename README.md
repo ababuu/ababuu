@@ -11,7 +11,7 @@
 - ⚡ Fun fact: Love cats 😁
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
-[<img align="left" alt="Ababu | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin](https://www.linkedin.com/in/ababu-alemu-17091519b/)
+[<img align="left" alt="Ababu | LinkedIn" height="22px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fc%2Fca%2FLinkedIn_logo_initials.png&imgrefurl=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ALinkedIn_logo_initials.png&tbnid=0CYMM5P7QFwOsM&vet=12ahUKEwi4t-zA5oLyAhUcQEIHHQ5eDgoQMygAegUIARDDAQ..i&docid=qGu_5FIOAApEiM&w=1024&h=1024&q=linkedin%20logo&ved=2ahUKEwi4t-zA5oLyAhUcQEIHHQ5eDgoQMygAegUIARDDAQ" />][linkedin](https://www.linkedin.com/in/ababu-alemu-17091519b/)
 [<img align="left" alt="Ababu | Telegram" height="22px" src="./SocialLogo/Telegram.png" />][telegram](https://t.me/ababu3)
 [<img align="left" alt="Ababu | Twitter" height="22px" src="./SocialLogo/Twitter.png" />][twitter](https://twitter.com/ababualemu0)
 [<img align="left" alt="Ababu | Facebook" height="22px" src="./SocialLogo/Facebook.png" />][facebook](https://www.facebook.com/ababu.alemu.3/)
