@@ -6,8 +6,6 @@
 - 👯 I’m looking to collaborate on Anything Frontend
 - 🤔 I’m looking for help with React
 - 💬 Ask me about Anything
--  😄 Pronouns: He/Him
-- ⚡ Fun fact: Love cats 😁
 - 📫 How to reach me:[Telegram](https://t.me/ababu3), [LinkedIn](https://www.linkedin.com/in/ababu-alemu-17091519b/), [Twitter](https://twitter.com/ababualemu0), [Instagram](https://www.instagram.com/_ababu_/), [Facebook](https://www.facebook.com/ababu.alemu.3/)
 <p>
 <em>Don't hesitate to get in touch!</em>
