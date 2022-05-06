@@ -1,5 +1,28 @@
-### Hi there 👋
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={ababuu}&theme=vue)
+### Hi there 👋<br>
+I'm Ababu Alemu, Front-End Developer with a proven
+ability to collaborate effectively with
+senior developers while spending
+extra time to be mentored. Enjoy
+working closely with team members
+to ensure workloads are effectively
+redirected to bottlenecks and
+personally picking up the slack when
+necessary. With a passion for both
+personal growth and for software
+development, I attended a 1000+ hour
+coding bootcamp to learn new
+languages while sharpening existing
+skills. Ready to apply my passion for
+coding to a talented engineering
+team to develop quality solutions. <br>
+## 📟 GitHub Stats<br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ababuu&theme=vue)<br>
+## 📊 Most Used Language<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ababuu)<br>
+## ⏱ Streak Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=ababuu)<br>
+## 🏆 Trophy Stats
+![](https://github-profile-trophy.vercel.app/?username=ababuu)
 
 - 🔭 I’m currently working on HTML, CSS and JavaScript
 - 🌱 I’m currently learning React
