@@ -1,20 +1,5 @@
 ### Hi there 👋<br>
-I'm Ababu Alemu, Front-End Developer with a proven
-ability to collaborate effectively with
-senior developers while spending
-extra time to be mentored. Enjoy
-working closely with team members
-to ensure workloads are effectively
-redirected to bottlenecks and
-personally picking up the slack when
-necessary. With a passion for both
-personal growth and for software
-development, I attended a 1000+ hour
-coding bootcamp to learn new
-languages while sharpening existing
-skills. Ready to apply my passion for
-coding to a talented engineering
-team to develop quality solutions. <br>
+Full-Stack Developer with a strong ability to collaborate and adapt in fast-paced environments. Passionate about building scalable solutions and continuously learning new technologies. Enjoy solving complex problems, optimizing workflows, and contributing to high-quality applications. Always eager to work with talented teams to create impactful software. <br>
 ## 📟 GitHub Stats<br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ababuu&theme=vue)<br>
 ## 📊 Most Used Language<br>
