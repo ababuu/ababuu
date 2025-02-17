@@ -4,8 +4,6 @@ Full-Stack Developer with a strong ability to collaborate and adapt in fast-pace
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ababuu&theme=vue)<br>
 ## 📊 Most Used Language<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ababuu)<br>
-## ⏱ Streak Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=ababuu)<br>
 ## 🏆 Trophy Stats
 ![](https://github-profile-trophy.vercel.app/?username=ababuu)
 
