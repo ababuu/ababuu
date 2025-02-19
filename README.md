@@ -12,7 +12,7 @@ Full-Stack Developer with a strong ability to collaborate and adapt in fast-pace
 - 👯 I’m open to collaborating on full-stack projects, AI integrations, and scalable applications.
 - 🤔 I’m exploring advanced React patterns, backend optimizations, and cloud services.
 - 💬 Ask me about React, Node.js, Firebase, and building high-performance applications
-- 📫 How to reach me:[Telegram](https://t.me/ababu3), [LinkedIn](https://www.linkedin.com/in/ababu-alemu-17091519b/), [Twitter](https://twitter.com/ababualemu0), [Instagram](https://www.instagram.com/_ababu_/), [Facebook](https://www.facebook.com/ababu.alemu.3/)
+- 📫 How to reach me:[Telegram](https://t.me/ababu3), [LinkedIn](https://www.linkedin.com/in/ababu-alemu-71419a279/), [Twitter](https://twitter.com/ababualemu0), [Instagram](https://www.instagram.com/_ababu_/), [Facebook](https://www.facebook.com/ababu.alemu.3/)
 <p>
 <em>Don't hesitate to get in touch!</em>
 </p>
