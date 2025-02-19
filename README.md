@@ -7,11 +7,11 @@ Full-Stack Developer with a strong ability to collaborate and adapt in fast-pace
 ## 🏆 Trophy Stats
 ![](https://github-profile-trophy.vercel.app/?username=ababuu)
 
-- 🔭 I’m currently working on HTML, CSS and JavaScript
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on Anything Frontend
-- 🤔 I’m looking for help with React
-- 💬 Ask me about Anything
+- 🔭 I’m currently working as a Full Stack Developer, building web and mobile applications.
+- 🌱 I’m expanding my skills in backend development (Node.js) and machine learning.
+- 👯 I’m open to collaborating on full-stack projects, AI integrations, and scalable applications.
+- 🤔 I’m exploring advanced React patterns, backend optimizations, and cloud services.
+- 💬 Ask me about React, Node.js, Firebase, and building high-performance applications
 - 📫 How to reach me:[Telegram](https://t.me/ababu3), [LinkedIn](https://www.linkedin.com/in/ababu-alemu-17091519b/), [Twitter](https://twitter.com/ababualemu0), [Instagram](https://www.instagram.com/_ababu_/), [Facebook](https://www.facebook.com/ababu.alemu.3/)
 <p>
 <em>Don't hesitate to get in touch!</em>
