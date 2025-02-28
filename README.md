@@ -8,7 +8,7 @@ Full-Stack Developer with a strong ability to collaborate and adapt in fast-pace
 ![](https://github-profile-trophy.vercel.app/?username=ababuu)
 
 - 🔭 I’m currently working as a Full Stack Developer, building web and mobile applications.
-- 🌱 I’m expanding my skills in backend development (Node.js) and machine learning.
+- 🌱 I’m expanding my skills in backend development (SpringBoot) and machine learning.
 - 👯 I’m open to collaborating on full-stack projects, AI integrations, and scalable applications.
 - 🤔 I’m exploring advanced React patterns, backend optimizations, and cloud services.
 - 💬 Ask me about React, Node.js, Firebase, and building high-performance applications
