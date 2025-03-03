@@ -1,11 +1,14 @@
 ### Hi there 👋<br>
-Full-Stack Developer with a strong ability to collaborate and adapt in fast-paced environments. Passionate about building scalable solutions and continuously learning new technologies. Enjoy solving complex problems, optimizing workflows, and contributing to high-quality applications. Always eager to work with talented teams to create impactful software. <br>
+Full-Stack Developer with a strong ability to collaborate and adapt in fast-paced environments. Passionate about building scalable solutions and continuously learning new technologies. Enjoy solving complex problems, optimizing workflows, and contributing to high-quality applications. Always eager to work with talented teams to create impactful software. <be>
+<!--
+
 ## 📟 GitHub Stats<br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ababuu&theme=vue)<br>
 ## 📊 Most Used Language<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ababuu)<br>
 ## 🏆 Trophy Stats
 ![](https://github-profile-trophy.vercel.app/?username=ababuu)
+-->
 
 - 🔭 I’m currently working as a Full Stack Developer, building web and mobile applications.
 - 🌱 I’m expanding my skills in backend development (SpringBoot) and machine learning.
